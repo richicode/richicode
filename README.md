@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Halo, aku Richie (@richicode)
 
-<!--
-**richicode/richicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aku seorang developer dari Indonesia yang fokus untuk terus belajar dan mengasah kemampuan problem-solving.
 
-Here are some ideas to get you started:
+### 🎯 Kesibukan 
+- 🔭 Perdalam pemahaman tentang Data Structures & Algorithms.
+- 📚 Aktif mengerjakan soal-soal **C++** di TLX Toki.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🏆 Profil Coding & Competitive Programming
+- 💡 [LeetCode](https://leetcode.com/u/richieolim/)
+- 🎯 [Codeforces](https://codeforces.com/profile/richiehack)
+- 🚀 [TLX Toki](https://tlx.toki.id/profiles/richie_olim)
+- 📝 [CSES](https://cses.fi/user/418178)
