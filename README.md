@@ -11,7 +11,8 @@ Aku fokus untuk terus belajar dan mengasah kemampuan problem-solving
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🏆 Profile Competitive Programming
-- 💡 [LeetCode](https://leetcode.com/u/richieolim/)
-- 🎯 [Codeforces](https://codeforces.com/profile/richiehack)
-- 🚀 [TLX Toki](https://tlx.toki.id/profiles/richie_olim)
-- 📝 [CSES](https://cses.fi/user/418178)
+- [LeetCode](https://leetcode.com/u/richieolim/)
+- [Codeforces](https://codeforces.com/profile/richiehack)
+- [TLX Toki](https://tlx.toki.id/profiles/richie_olim)
+- [CSES](https://cses.fi/user/418178)
+- [vjudge](https://vjudge.net/user/richiee)
