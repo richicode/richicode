@@ -33,14 +33,3 @@
 | **Eolymp** | [richieee](https://eolymp.com/users/richieee) | 🚀 Practice |
 
 ---
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richiehack&show_icons=true&theme=radical&hide_border=true" alt="Richie's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richiehack&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richiehack&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
