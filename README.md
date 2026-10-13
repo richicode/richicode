@@ -28,7 +28,7 @@
 | **LeetCode** | [richieolim](https://leetcode.com/u/richieolim/) | 🧩 Problem Solver |
 | **Codeforces** | [richiehack](https://codeforces.com/profile/richiehack) | 💻 Competitive Coder |
 | **TLX** | [richie_olim](https://tlx.toki.id/profiles/richie_olim) | 🏅 National Platform |
-| **CSES** | [CSES User](https://cses.fi/user/418178) | ⚡ Problem Set |
+| **CSES** | [richielearn](https://cses.fi/user/418178) | ⚡ Problem Set |
 | **VJudge** | [richiee](https://vjudge.net/user/richiee) | 🌐 Multi-Judge |
 | **Eolymp** | [richieee](https://eolymp.com/users/richieee) | 🚀 Practice |
 
