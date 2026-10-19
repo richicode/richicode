@@ -26,5 +26,6 @@
 | 🌐 **VJudge** | [richiee](https://vjudge.net/user/richiee)  
 | 🚀 **Eolymp** | [richieee](https://eolymp.com/users/richieee) 
 | 🖥️ **Neetcode** | [Richie](https://neetcode.io/user/TwilightBorg671)
+| 🐸 **HackerRank** | [richiehuang010](https://www.hackerrank.com/profile/richiehuang010)
 
 ---
